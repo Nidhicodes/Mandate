@@ -15,6 +15,7 @@
 [Live Demo](https://mandate-xi.vercel.app/) · [Explorer (Vault)](https://explorer.testnet.chain.robinhood.com/address/0x4eE0dC79A8f6914a8D41c1278a800485Ca01763C) · [ERC-8226 Standard](https://eips.ethereum.org/EIPS/eip-8226)
 
 </div>
+<img width="1413" height="763" alt="image" src="https://github.com/user-attachments/assets/450836ff-21cb-4ab9-8bb5-ede45dd941f0" />
 
 ---
 
