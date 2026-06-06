@@ -12,7 +12,7 @@
 
 *The first implementation of ERC-8226 (Regulated Agent Mandate) — a two-agent AI system that trades tokenized equities on Robinhood Chain under cryptographic mandate enforcement. Every trade is checked atomically. Violations revert on-chain. No exceptions.*
 
-[Live Demo](#) · [Explorer (Vault)](https://explorer.testnet.chain.robinhood.com/address/0x4eE0dC79A8f6914a8D41c1278a800485Ca01763C) · [ERC-8226 Standard](https://eips.ethereum.org/EIPS/eip-8226)
+[Live Demo](https://mandate-xi.vercel.app/) · [Explorer (Vault)](https://explorer.testnet.chain.robinhood.com/address/0x4eE0dC79A8f6914a8D41c1278a800485Ca01763C) · [ERC-8226 Standard](https://eips.ethereum.org/EIPS/eip-8226)
 
 </div>
 
