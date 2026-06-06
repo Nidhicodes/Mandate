@@ -1,0 +1,23 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Dependencies
+node_modules/
+lib/
+
+# Env (secrets)
+.env
+agent/.env
+frontend/.env.local
+
+# Build
+frontend/.next/
+agent/dist/
+
+# Memory (runtime)
+agent/.agent-memory.json
+
+# OS
+.DS_Store
