@@ -212,7 +212,7 @@ mandate/
 | AI Agents | **Groq (Llama 3.3 70B)** + multi-agent loop | Strategist + Risk Officer, live data + memory |
 | Market data | **Yahoo Finance** (live, 6-month history) | Real prices, computed momentum/volatility/valuation |
 | Frontend | **Next.js · Tailwind · TypeScript** | Dark theme, 3D card flip, scroll-driven reveals |
-| Deploy | **Vercel (frontend) · Render/Railway (agent)** | Live URL for judges |
+| Deploy | **Vercel (frontend) · Render/Railway (agent)** | Live URL |
 
 ---
 
